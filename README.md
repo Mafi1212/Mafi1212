@@ -1,6 +1,6 @@
 ![I am Mafi1212](https://github.com/Mafi1212/Mafi1212/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Tarikul Mafi</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
